@@ -1,0 +1,26 @@
+{
+  "name": "webapp-dep",
+  "version": "0.0.1",
+  "main": [
+    "scripts/av.js",
+    "scripts/highcharts.js",
+    "styles/admin.css"
+  ],
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    ".npmignore",
+    ".travis.yml",
+    "Makefile",
+    "bin",
+    "component.json",
+    "index.js",
+    "lib",
+    "node_modules",
+    "package.json",
+    "src",
+    "test"
+  ]
+}
+
